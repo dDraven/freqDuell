@@ -1,0 +1,18 @@
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\bin\Debug\Family Duell.exe.config
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\obj\Debug\Family_Duell.Form1.resources
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\obj\Debug\Family_Duell.Properties.Resources.resources
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\obj\Debug\Family Duell.csproj.GenerateResource.Cache
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\bin\Debug\Family Duell.exe
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\bin\Debug\Family Duell.pdb
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\obj\Debug\Family Duell.exe
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\obj\Debug\Family Duell.pdb
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\obj\Debug\Family_Duell.Start.resources
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\bin\Debug\BrandonPotter.XBox.dll
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\bin\Debug\SharpDX.dll
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\bin\Debug\SharpDX.XInput.dll
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\bin\Debug\SharpDX.xml
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\bin\Debug\SharpDX.XInput.xml
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\obj\Debug\Family Duell.csprojResolveAssemblyReference.cache
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\bin\Debug\NAudio.dll
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\bin\Debug\NAudio.xml
+C:\Users\Dave\MasterarbeitWorkspace\TCPSockets\testClientVisualStudio\Family Duell\Family Duell\obj\Debug\Family_Duell.Finale.resources

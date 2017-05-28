@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Familienduell</string>
+    <string name="startButton">Start</string>
+    <string name="accelText">Test</string>
+</resources>
